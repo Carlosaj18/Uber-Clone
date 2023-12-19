@@ -16,7 +16,7 @@
 
 <div style="display: inline_block" align="center"><br>
 
- <img align="center" alt="React"  width="auto" height="auto"  src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
+ <img align="center" alt="React"  width="auto" height="auto"  src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="240px"/>
 
 <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" width="240px"/>
 
@@ -108,6 +108,6 @@ expo publish
 
 ## :handshake: Contact
 
-Email ID- muddasarhussain739@gmail.com
+Email ID- cjaramilloportilla@gmail.com
 
 Project Link : https://github.com/muddasir03/Uber-Clone-ReactNative.git

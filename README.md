@@ -2,7 +2,6 @@
 
   <img src="https://user-images.githubusercontent.com/84333971/233428087-4de1f0a9-4198-441d-a7c6-b26260bae52d.png" alt="logo" width="350" height="auto" />
 
-
 # Uber Clone with REACT NATIVE!
 
 </div>
@@ -18,6 +17,9 @@
 <div style="display: inline_block" align="center"><br>
 
  <img align="center" alt="React"  width="auto" height="auto"  src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
+
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" width="240px"/>
+
 </div>
 
 <br />

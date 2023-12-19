@@ -12,13 +12,13 @@
 
 <!-- Screenshots -->
 
+## Demo
+
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
+
 ### :camera: Screenshots
 
 <div style="text-align: center;">
-  <div style="max-width: 240px; overflow: hidden;"> <!-- Establecer el máximo del div igual al ancho de las imágenes -->
-    <!-- Ajustar el tamaño del video -->
-    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" style="width: 100%; height: auto;">
-  </div>
   <!-- Ajustar el tamaño de las imágenes -->
   <div style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" style="width: 240px; margin-right: 10px;">

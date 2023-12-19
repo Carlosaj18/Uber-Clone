@@ -7,14 +7,11 @@
 </div>
 
 <!-- About the Project -->
-
-## :star2: About the Project
-
-<!-- Screenshots -->
-
 ## Demo
 
 <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
+
+<!-- Screenshots -->
 
 ### :camera: Screenshots
 
@@ -27,9 +24,9 @@
   </div>
 </div>
 
-
-
 <br />
+
+## :star2: About the Project
 
 ![](https://img.shields.io/badge/Uber-white?style=for-the-badge&logo=Uber&logoColor=black)
 

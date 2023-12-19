@@ -17,11 +17,11 @@
 <div style="text-align: center;">
   <div style="max-width: 100%; overflow: hidden;">
     <!-- Ajustar el tamaño del video -->
-    <iframe
+    <div
       src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif"
       style="width: 240px; height: auto; border: none;"
       allowfullscreen
-    ></iframe>
+    ></div>
   </div>
   <!-- Ajustar el tamaño de las imágenes -->
   <div style="margin-top: 20px;">

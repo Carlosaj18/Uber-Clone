@@ -6,25 +6,7 @@
 
 </div>
 
-<!-- About the Project -->
-## Demo
 
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
-
-<!-- Screenshots -->
-
-### :camera: Screenshots
-
-<div style="text-align: center;">
-  <!-- Ajustar el tamaño de las imágenes -->
-  <div style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" style="width: 240px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" style="width: 240px; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" style="width: 240px;">
-  </div>
-</div>
-
-<br />
 
 ## :star2: About the Project
 
@@ -34,25 +16,23 @@ This is a React Native app clone of Uber that uses Tailwind CSS and React Native
 
 This project is ideal for React Native developers who are interested in building a ride-sharing app using popular libraries and tools. The project is open-source, so developers can contribute to it and learn from it.
 
-## Features
+## Project Technological Stack:
+* Expo: Rapid tooling and deployment platform for React Native applications.
+* ReactJS: Framework for building interactive user interfaces.
+* JavaScript: Programming language for typing and scripting functionalities.
+* TailwindCSS: Utility-first CSS framework for rapid styling and customization.
+* Google Cloud API's (Google Maps): Services offering mapping functionality for apps.
+* React Navigation: Solución flexible de navegación para la aplicación en múltiples plataformas.
 
-- User authentication and registration
-- User profile management
-- Booking a ride
-- Tracking the ride
-- Payment processing
-- Integration with Google Maps
-
-## Technologies Used
-
-- React Native
-- Tailwind CSS
-- React Native Navigation
-- Google Maps API
+## Features:
+*     User authentication and registration
+*     User profile management
+*     Booking a ride
+*     Tracking the ride
+*     Payment processing
+*     Integration with Google Maps
 
 ## Getting Started
-
-## Prerequisites
 
 To run the app, you will need to have the following installed on your machine:
 
@@ -63,7 +43,7 @@ To run the app, you will need to have the following installed on your machine:
 Clone the project
 
 ```bash
-  git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
+  git clone [https://github.com/muddasir03/Uber-Clone-ReactNative.git](https://github.com/Carlosaj18/Uber-Clone)
 ```
 
 change directory
@@ -86,14 +66,6 @@ Start the server
 
 <hr />
 
-### Creating a Build
-
-- Optimize the assets for speed - `npx expo-optimize` (formerly expo optimize)
-- Bundle the project for production - `npx expo export:web` (`expo build:web` in the legacy Expo CLI).
-- Creates a production ready static bundle in the `web-build/` directory. Don't edit this folder directly.
-- If you make any changes to your project, you'll need to re-build for production.
-- For more help use `npx expo export:web --help`
-- <a href="https://docs.expo.dev/eas" target="_blank">More Info</a>
 <!-- Deployment -->
 
 ### :triangular_flag_on_post: Deployment
@@ -110,8 +82,33 @@ publish your project
 expo publish
 ```
 
+<!-- About the Project -->
+ ## Demo & Showcasing:
+
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
+
+<!-- Screenshots -->
+
+### :camera: Screenshots
+
+<div style="text-align: center;">
+  <!-- Ajustar el tamaño de las imágenes -->
+  <div style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" style="width: 240px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" style="width: 240px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" style="width: 240px;">
+  </div>
+</div>
+
+<br />
+
+
 ## :handshake: Contact
 
 Email ID- cjaramilloportilla@gmail.com
 
-Project Link : https://github.com/muddasir03/Uber-Clone-ReactNative.git
+Project Link : [https://github.com/muddasir03/Uber-Clone-ReactNative.git](https://github.com/Carlosaj18/Uber-Clone)
+
+
+### Special Thanks:
+- [Sonny Sangha](https://www.youtube.com/c/SonnySangha) for his amazing tutorial.

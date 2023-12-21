@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## :star2: About the Project
 
 ![](https://img.shields.io/badge/Uber-white?style=for-the-badge&logo=Uber&logoColor=black)
